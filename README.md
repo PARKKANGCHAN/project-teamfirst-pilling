@@ -3,18 +3,13 @@
 -  코로나라는 팬데믹을 겪은 지금, 현대인들은 건강을 중요시 하게되고, 전세계적으로 영양제 판매량은 급증하였습니다.
 -  설문조사를 통해 키워드를 입력받아, 키워드 매핑을 통해 영양제를 추천해주고 판매하는 사이트 입니다.
 
-   <img src="https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/ed22569b-7e8f-4d12-a63c-482a5f76aede" alt="mainpage" width="50%">
+   <img src="https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/ed22569b-7e8f-4d12-a63c-482a5f76aede" alt="mainpage" width="90%">
 
 ## 🧑‍🤝‍🧑 팀원 구성 <총 인원 3명>
 
 -  이OO (팀장)
 -  손OO (팀원)
 -  박현우 (본인/팀원)
-   -  전반적인 Front-end 관리 [(상세설명 : 주요기능 -> 각종 Front-end로 이동)](#⭐-주요-기능)
-   -  설문조사 후 제품추천 기능 구현 [(상세설명 : 주요기능 -> 설문조사 후 제품추천 으로 이동)](#⭐-주요-기능)
-   -  제품 상세 페이지 구현 [(상세설명 : 주요기능 -> 제품 상세 페이지로 이동)](#⭐-주요-기능)
-   -  제품 페이지 구현 [(상세설명 : 주요기능 -> 제품 페이지로 이동)](#⭐-주요-기능)
-   -  관리자 페이지 [(상세설명 : 주요기능 -> 관리자페이지로 이동)](#⭐-주요-기능)
 
 ## 📅 개발기간
 
@@ -24,7 +19,7 @@
 
 -  Back-end : Java11, Spring Legacy Project
 -  Fornt-end : HTML, CSS(BootStrap5), JavaScript
--  형상관리 : GIT, Github, SourceTree
+-  형상관리 : Git, Github, Sourcetree
 -  협업툴 : Google Sheets, Notion
 -  Database : MySQL (AWS RDS 서버 이용)
 -  IDE : Eclipse, VSC
@@ -41,45 +36,33 @@
 -  JSP에서 `JSTL과 EL표현식` 을 활용하여, Controller단과 연결하는 방법을 학습하였음
 -  `SweetAlert2` 와 `KaKaoAPI` 를 활용하여 API와 라이브러리 사용에 대해 학습하였음
 
+## ⭐ 제가 맡은 부분
 
+-  전반적인 Front-end 관리
+   -  테마 및 레이아웃 설정 및 전반적인 Front-End 역할 수행
+   -  기능 구현을 진행하면서 정리되지 않은 View부분을 마무리 정리
+-  설문조사 후 제품추천 페이지
+   -  설문조사 기능을 위한 데이터베이스 설계 ( n : m 매핑을 고려한 설계 ) 진행
+   -  설문조사 페이지 View 구현 및 기능 구현
+-  제품 목록 페이지 구현
+   -  CheckBox체크 시 Ajax를 이용한 실시간 목록 변환 기능 구현
+   -  전반적인 View단 + Pagination 구현
+-  제품 상세 페이지 구현
+   -  로그인을 하지 않을 시 구매 및 장바구니 이용 제한 기능 구현
+   -  Alert은 SweetAlert라이브러리를 사용한 명확한 Alert 제공
+   -  제품 상세 페이지 전반적인 View 구현
+-  관리자 페이지
+   -  메인화면에 재고 부족 현황을 바로 볼 수 있게 하여, 효율적인 UI 제공
+   -  제품에 대한 재고 추가, 제품 등록, 삭제, 수정 페이지 기능 & View 구현
 
-## ⭐ 주요 기능
+## ⭐ 맡은 부분 시연 영상 (음성이 있습니다. 음소거를 풀어주세요.)
 
-<details>
-<summary>설문조사 후 제품추천</summary>
-  
-  ✅설문조사 후 제품 추천
-  
-</details>
-
-
-<details>
-  <summary>제품 페이지</summary>
-  
-  ✅여기 내용 작성
-</details>
-
-<details>
-  <summary>제품 상세 페이지</summary>
-  
-  ✅여기 내용 작성
-</details>
-
-<details>
-  <summary>각종 Front-end</summary>
-  
-  ✅여기 내용 작성
-</details>
-
-<details>
-  <summary>관리자 페이지</summary>
-  
-  ✅여기 내용 작성
-</details>
-
-## ⭐ 주요 기능 시연 영상
 https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/19cfb979-6aa2-46ff-bc7a-7f30ca2a2911
 
+https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/3b0075c4-ae6f-4fa0-930b-3d71af435c8c
+
+https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/8956a95b-1530-4769-8960-ec9fadef5b93
+
+https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/2e8eae1f-df37-4d99-94c7-577983669b09
 
 ## 🎯 트러블 슈팅
-
