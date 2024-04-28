@@ -41,6 +41,8 @@
 -  JSP에서 `JSTL과 EL표현식` 을 활용하여, Controller단과 연결하는 방법을 학습하였음
 -  `SweetAlert2` 와 `KaKaoAPI` 를 활용하여 API와 라이브러리 사용에 대해 학습하였음
 
+
+https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/cb866787-6bd0-4079-8f45-3222d247bad6
 ## ⭐ 주요 기능
 
 <details>
@@ -55,7 +57,6 @@
   <summary>제품 페이지</summary>
   
   ✅여기 내용 작성
-  https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/cb866787-6bd0-4079-8f45-3222d247bad6
 </details>
 
 <details>
