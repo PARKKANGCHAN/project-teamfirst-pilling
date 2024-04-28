@@ -51,7 +51,6 @@
   ✅설문조사 후 제품 추천
   
 </details>
-https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/19cfb979-6aa2-46ff-bc7a-7f30ca2a2911
 
 
 <details>
@@ -79,6 +78,8 @@ https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/19cfb
 </details>
 
 ## ⭐ 주요 기능 시연 영상
+https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/19cfb979-6aa2-46ff-bc7a-7f30ca2a2911
+
 
 ## 🎯 트러블 슈팅
 
