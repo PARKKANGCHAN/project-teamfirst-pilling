@@ -49,11 +49,9 @@
 <summary>설문조사 후 제품추천</summary>
   
   ✅설문조사 후 제품 추천
-
   
 </details>
- - 설문조사 시연 영상
-https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/cb866787-6bd0-4079-8f45-3222d247bad6
+https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/19cfb979-6aa2-46ff-bc7a-7f30ca2a2911
 
 
 <details>
@@ -80,10 +78,7 @@ https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/cb866
   ✅여기 내용 작성
 </details>
 
+## ⭐ 주요 기능 시연 영상
+
 ## 🎯 트러블 슈팅
 
-<details>
-<summary>설문조사 후 제품추천</summary>
-  
-  ✅설문조사 후 제품 추천
-</details>
