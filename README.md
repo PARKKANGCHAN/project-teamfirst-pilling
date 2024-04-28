@@ -48,13 +48,14 @@
   
   ✅설문조사 후 제품 추천
 
-  <iframe width="1044" height="587" src="https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/9f2ae945-7f90-41ec-abfc-59fc99236476" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 </details>
 
 <details>
   <summary>제품 페이지</summary>
   
   ✅여기 내용 작성
+  https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/cb866787-6bd0-4079-8f45-3222d247bad6
 </details>
 
 <details>
