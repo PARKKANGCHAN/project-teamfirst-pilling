@@ -42,7 +42,7 @@
 -  `SweetAlert2` 와 `KaKaoAPI` 를 활용하여 API와 라이브러리 사용에 대해 학습하였음
 
 
-https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/cb866787-6bd0-4079-8f45-3222d247bad6
+
 ## ⭐ 주요 기능
 
 <details>
@@ -52,6 +52,9 @@ https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/cb866
 
   
 </details>
+ - 설문조사 시연 영상
+https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/cb866787-6bd0-4079-8f45-3222d247bad6
+
 
 <details>
   <summary>제품 페이지</summary>
