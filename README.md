@@ -64,5 +64,3 @@ https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/3b007
 https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/8956a95b-1530-4769-8960-ec9fadef5b93
 
 https://github.com/PARKKANGCHAN/project-teamfirst-pilling/assets/152882330/2e8eae1f-df37-4d99-94c7-577983669b09
-
-## 🎯 트러블 슈팅
